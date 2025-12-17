@@ -221,4 +221,13 @@ Key calculations implemented in Tableau include:
 &nbsp;
 
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+📧 **"Email:**     (**younuskhan3170@gmail.com**)
+
+
+
 
