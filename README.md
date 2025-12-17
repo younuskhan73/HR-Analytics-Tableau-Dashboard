@@ -213,11 +213,7 @@ Key calculations implemented in Tableau include:
  **Data Analyst | HR Analytics | Tableau**
 
 
-
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile-name/)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-link/)
 
 
 &nbsp;**LinkedIn**: https://www.linkedin.com/in/patan-younus-khan?lipi=urn%3Ali%3Apage%3Ad\_flagship3\_profile\_view\_base\_contact\_details%3BMdiR4DC%2FSdar7qHkgTAttw%3D%3D
