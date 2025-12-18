@@ -80,6 +80,8 @@ The Tableau dashboard provides:
  ┣ Screenshots
  ┣ README.md
 
+  Tableau Link:- https://public.tableau.com/views/HRAnalyticalDashBoard_/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 &nbsp; 👤 **Author**
 
