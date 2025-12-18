@@ -1,207 +1,84 @@
-# HR Analytics-Tableau-Dashboard
+   HR Analytics Dashboard
 
-Tableau-based HR Analytics project with advanced KPIs, box plots, and interactive dashboards for workforce analysis.
+  Tools: Tableau | SQL | Excel
 
 
+## Problem Statement:-  
 
+  Human Resources teams require data-driven insights to improve employee retention,
+  workforce planning, and overall organizational performance.
+  This project analyses HR data to identify trends in attrition, performance,
+  and workforce composition.
 
 
-&nbsp; **Project Overview**
+## Dataset:- 
 
+ - Employee demographic and HR-related data
+ - Key attributes include:
+    - Department
+    - Job role
+    - Attrition status
+    - Performance rating
+    - Salary and tenure
+- Dataset prepared and validated using Excel and SQL
 
 
-This project presents an **Advanced HR Analytics Dashboard** developed using **Tableau**, aimed at analysing workforce data to support strategic HR decision-making. The dashboard delivers insights into \*\*employee attrition, compensation distribution, tenure, performance, and engagement\*\* through interactive and advanced visualizations.
+## Tools and Technologies:-
 
+  - Tableau – Interactive dashboards and KPI visualization
+  - SQL – Data filtering and aggregation
+  - Excel – Data cleaning and pre-processing
 
 
-The project is designed to demonstrate **end-to-end analytics skills,** from data modelling and calculated fields to storytelling with dashboards.
+## Analysis Performed:-
 
+  - Attrition analysis by department and job role
+  - Employee tenure and experience analysis
+  - Performance and salary distribution analysis
+  - Workforce diversity and headcount trends
+  - KPI creation for HR decision-making
 
 
+## Dashboard Overview:-
 
+The Tableau dashboard provides:
+  - Overall attrition rate
+  - Department-wise and role-wise attrition
+  - Tenure and experience trends
+  - Performance distribution
+  - Interactive filters for deeper HR insights
 
-&nbsp; **Objectives**
 
+## Key Insights:-
 
+  - Certain departments show higher attrition rates
+  - Employees with lower tenure are more likely to leave
+  - Salary levels influence employee retention
+  - Performance trends vary significantly across roles
 
-\* Analyze **employee attrition patterns** across departments and roles
 
-\* Understand **salary distribution and pay variability** using box plots
+## Business Recommendations:-
 
-\* Monitor **headcount, retention, and workforce trends**
+  - Implement targeted retention strategies for high-attrition departments
+  - Strengthen onboarding and engagement for new employees
+  - Review compensation structure for critical roles
+  - Use performance insights to support workforce planning
 
-\* Identify **high-risk attrition and burnout indicators**
+## Skills Demonstrated:-
 
-\* Provide actionable insights for HR stakeholders
+  - HR analytics and KPI design
+  - Dashboard storytelling using Tableau
+  - Data analysis for workforce decision-making
+  - Translating insights into business actions
 
+## Repository Structure:-
 
-
-
-
- **Dataset Information**
-
-
-
-\* Domain: Human Resources
-
-\* Granularity: Employee-level data
-
-\* Unique Identifier: Employee Number (used as Employee ID)
-
-
-
-&nbsp;**Key Fields:**
-
-
-
-&nbsp; \* Employee Number
-
-&nbsp; \* Department, Job Role
-
-&nbsp; \* Attrition, Over Time
-
-&nbsp; \* Monthly Income, Daily Rate
-
-&nbsp; \* Age, Gender
-
-&nbsp; \* Job Satisfaction, Performance Rating
-
-&nbsp; \* Tenure / Experience-related fields
-
-
-
-
-
- **Key KPIs \& Metrics**
-
-
-
-\* Total Employees
-
-\* Employees Left
-
-\* Attrition Rate (%)
-
-\* Retention Rate (%)
-
-\* Average Monthly Income
-
-\* Salary Distribution by Department
-
-\* Average Tenure
-
-\* Overtime Percentage
-
-\* High Performer Ratio
-
-\* Burnout Risk Indicator
-
-
-
-All KPIs are calculated using \*\*custom Tableau calculated fields\*\* without parameters, ensuring dynamic interactivity.
-
-
-
----
-
-
-
-&nbsp;**Dashboard Features**
-
-
-
-\* \*\*Attrition Analysis:\*\* Department-wise and role-wise attrition trends
-
-\* \*\*Compensation Analysis:\*\* Box-and-whisker plots to analyse salary dispersion and outliers
-
-\* \*\*Tenure Analysis:\*\* Distribution of employee experience across departments
-
-\* \*\*Performance \& Engagement:\*\* Job satisfaction and performance metrics
-
-\* \*\*Interactive Filters:\*\* Department, Gender, Job Role, Attrition
-
-\* \*\*Tooltips:\*\* Contextual KPI explanations for better storytelling
-
-
-
-
-
-&nbsp;**Calculated Fields**
-
-
-
-Key calculations implemented in Tableau include:
-
-
-
-\* Attrition Rate
-
-\* Retention Rate
-
-\* Employees Left
-
-\* Daily Rate
-
-\* Salary Bands
-
-\* Overtime Flag
-
-\* High Performer Flag
-
-\* Burnout Risk Indicator
-
-\* LOD Expressions for employee-level accuracy
-
-
-
-> Employee Number is used on the \*\*Marks → Detail\*\* shelf to maintain correct employee-level granularity, especially for box plots.
-
-
-
-
-
-
-
-&nbsp;**Tools \& Technologies**
-
-
-
-\* \*\*Tableau Desktop / Tableau Public\*\*
-
-\* \*\*Data Visualization \& Analytics\*\*
-
-\* \*\*Calculated Fields \& LOD Expressions\*\*
-
-\* \*\*Dashboard Design \& Storytelling\*\*
-
-
-
-
-
-&nbsp;🌐 **Live Dashboard**
-
-
-
-🔗 **Tableau Public Link:https://public.tableau.com/views/HRAnalyticalDashBoard\_/Dashboard1?:language=en-US\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link**
-
-
-
-
-
-
-
-&nbsp; **Key Insights** 
-
-
-
-\* Attrition is higher among employees with overtime and low job satisfaction
-
-\* Employees with shorter tenure show higher attrition rate
-
-
-
-
-
+  HR-analytics-dashboard
+ ┣ Dataset
+ ┣ SQL
+ ┣ Tableau
+ ┣ Screenshots
+ ┣ README.md
 
 
 &nbsp; 👤 **Author**
